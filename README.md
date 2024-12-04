@@ -57,6 +57,9 @@ Figure -02 HALF Subtractor
 Developed by:Nara Guna Susmitha RegisterNumber:24010204
 
 ![Screenshot 2024-12-04 182505](https://github.com/user-attachments/assets/0ba7d5a0-cd8c-4b89-9766-64cebbf7fa16)
+
+
+
 ![Screenshot 2024-12-04 190543](https://github.com/user-attachments/assets/c1d399ea-8609-4205-b429-9690d2cdf451)
 
 */
